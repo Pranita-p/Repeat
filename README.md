@@ -1,5 +1,5 @@
 # calculator
-Simple Calculator using maven and java
+Simple Calculator using maven and java these ar the only pre-requisite.
 
 Instruction about runnung this project:
 
